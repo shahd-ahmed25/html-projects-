@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Online products</title>
+</head>
+<body>
+    <h1><center><strong> iPhone 17 
+    pro max</strong></center></h1>
+
+    <center>
+        <img src="Shahd/ic.jpg" alt
+        ="colour img" width="200">
+    </center>
+
+    <p><center><strong><big>Details
+    </big></strong></center></p>
+    <p><center>⭐⭐⭐⭐⭐</center>
+    </p>
+    <p><center><strong>Brand name 
+    :</strong> <em>Apple</em>
+    </center></p>
+    <p><center><strong>Memory 
+    Storage Capacity:</strong>
+    <em>256 GB</em></center></p>
+    <p><center><strong>Screen Size 
+    :</strong> <em>6.9 Inches</em>
+    </center></p>
+    <p><center><strong>Wireless 
+    Provider:</strong> <em>
+    Unlocked for all carries</em>
+    </center></p>
+    <p><center><strong>Colour 
+    :</strong> <em>Silver</em>
+    </center></p>
+    <p><center><strong>Model Year 
+    :</strong> <em>2025</em>
+    </center></p>
+    <p><center><strong>Price 
+    :</strong> <em>90.000 EGP 
+    <mark>instead of</mark><del>
+    105.000 EGP</del></em>
+    </center></p>
+</body>
+</html>
